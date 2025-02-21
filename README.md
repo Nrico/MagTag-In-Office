@@ -1,6 +1,3 @@
-# MagTag-In-Office
-Use your MagTag as an office door status sign. Let them know if you are out to lunch.
-![InOffice](https://github.com/user-attachments/assets/28fe19ab-4694-40fb-9e81-1cf6b435be5b)
 # MagTag Office Status Display
 
 This project is designed for the [Adafruit MagTag](https://www.adafruit.com/product/4800) ePaper display. It provides a simple office status indicator, allowing quick updates on your availability using MagTag's built-in buttons.
@@ -36,7 +33,7 @@ This project is designed for the [Adafruit MagTag](https://www.adafruit.com/prod
 5. A small delay prevents unnecessary processing load.
 
 ## Example Screenshot
-(Add an image here showing the MagTag displaying a status.)
+![InOffice](https://github.com/user-attachments/assets/28fe19ab-4694-40fb-9e81-1cf6b435be5b)
 
 ## License
 This project is open-source under the MIT License.
